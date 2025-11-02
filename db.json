@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "1762079864665",
+      "name": "Shreyas Jain R P",
+      "code": "NA",
+      "countries": [
+        "BE",
+        "EG",
+        "DK"
+      ]
+    }
+  ],
+  "countries": [
+    {
+      "id": "AR",
+      "name": "Argentina"
+    },
+    {
+      "id": "BE",
+      "name": "Belgium"
+    },
+    {
+      "id": "DK",
+      "name": "Denmark"
+    },
+    {
+      "id": "EG",
+      "name": "Egypt"
+    },
+    {
+      "id": "FI",
+      "name": "Finland"
+    },
+    {
+      "id": "DE",
+      "name": "Germany"
+    },
+    {
+      "id": "JP",
+      "name": "Japan"
+    },
+    {
+      "id": "IS",
+      "name": "Iceland"
+    },
+    {
+      "id": "NO",
+      "name": "Norway"
+    },
+    {
+      "id": "SE",
+      "name": "Sweden"
+    }
+  ]
+}
